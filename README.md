@@ -1,6 +1,6 @@
 ### **Papers, Please** - Localization Tool
 
-https://paperspleaseloc.github.io
+https://hjbiki.github.io/Hibiki.github.io/
 
 ### Language pack generator
 
