@@ -36,25 +36,25 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../fonts/PixelSevenFifteenMonoRounded-Regular.ttf'); }
+@font-face { font-family: 'tiny'; src: url('../fonts/Handjet-Regular.ttf'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small_tight'; src: url('../fonts/PixelSevenFifteenMonoRounded-Regular.ttf'); }
+@font-face { font-family: 'small_tight'; src: url('../fonts/Handjet-Regular.ttf'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'small_harsh'; src: url('../fonts/PixelSevenFifteenMonoRounded-Regular.ttf'); }
+@font-face { font-family: 'small_harsh'; src: url('../fonts/Handjet-Regular.ttf'); }
 .font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
 
 /*---- regular -------------------------------------------------*/
-@font-face { font-family: 'regular'; src: url('../fonts/PixelSevenFifteenMonoRounded-Regular.ttf'); }
+@font-face { font-family: 'regular'; src: url('../fonts/Handjet-Regular.ttf'); }
 .font-regular, body { font-family: 'regular'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'regular_short'; src: url('../fonts/PixelSevenFifteenMonoRounded-Regular.ttf'); }
+@font-face { font-family: 'regular_short'; src: url('../fonts/Handjet-Regular.ttf'); }
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
-@font-face { font-family: 'title_tall'; src: url('../fonts/PixelSevenFifteenMonoRounded-Regular.ttf'); }
+@font-face { font-family: 'title_tall'; src: url('../fonts/Handjet-Regular.ttf'); }
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
 
 @font-face { font-family: 'title_news'; src: url('../fonts/MotorolaScreentype-U--shnmk16b.ttf'); } 
@@ -64,7 +64,7 @@ Fonts here are used by both the loc tool and the game.
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
 
 /*---- ui -------------------------------------------------*/
-@font-face { font-family: 'ui_regular'; src: url('../fonts/PixelSevenFifteenMonoRounded-Regular.ttf'); }
+@font-face { font-family: 'ui_regular'; src: url('../fonts/Handjet-Regular.ttf'); }
 .font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
