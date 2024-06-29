@@ -54,7 +54,7 @@ Fonts here are used by both the loc tool and the game.
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
-@font-face { font-family: 'title_tall'; src: url('../fonts/Handjet-Regular.ttf'); }
+@font-face { font-family: 'title_tall'; src: url('../fonts/Handjet-Bold.ttf'); }
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
 
 @font-face { font-family: 'title_news'; src: url('../fonts/MotorolaScreentype-U--shnmk16b.ttf'); } 
