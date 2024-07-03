@@ -36,14 +36,14 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); }
+@font-face { font-family: 'tiny'; src: url('../fonts/Arabic by Anad Al Askar2.ttf'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small_tight'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); }
+@font-face { font-family: 'small_tight'; src: url('../fonts/Arabic by Anad Al Askar2.ttf'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'small_harsh'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); }
+@font-face { font-family: 'small_harsh'; src: url('../fonts/Arabic by Anad Al Askar2.ttf'); }
 .font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
 
 /*---- regular -------------------------------------------------*/
