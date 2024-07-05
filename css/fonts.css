@@ -43,7 +43,7 @@ Fonts here are used by both the loc tool and the game.
 @font-face { font-family: 'small_tight'; src: url('../fonts/Arabic by Anad Al Askar2.ttf'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'small_harsh'; src: url('../fonts/Arabic by Anad Al Askar2.ttf'); }
+@font-face { font-family: 'small_harsh'; src: url('../fonts/Pixel-UniCode.ttf'); }
 .font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
 
 /*---- regular -------------------------------------------------*/
