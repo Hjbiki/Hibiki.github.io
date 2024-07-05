@@ -36,7 +36,7 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../fontsPixel-UniCode.ttf'); }
+@font-face { font-family: 'tiny'; src: url('../fonts/Pixel-UniCode.ttf'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
