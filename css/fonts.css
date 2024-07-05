@@ -36,11 +36,11 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../fonts/Arabic by Anad Al Askar2.ttf'); }
+@font-face { font-family: 'tiny'; src: url('../fontsPixel-UniCode.ttf'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small_tight'; src: url('../fonts/Arabic by Anad Al Askar2.ttf'); }
+@font-face { font-family: 'small_tight'; src: url('../fonts/Pixel-UniCode.ttf'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
 @font-face { font-family: 'small_harsh'; src: url('../fonts/Pixel-UniCode.ttf'); }
@@ -57,7 +57,7 @@ Fonts here are used by both the loc tool and the game.
 @font-face { font-family: 'title_tall'; src: url('../fonts/Sukar-Black-1.ttf'); }
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
 
-@font-face { font-family: 'title_news'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); } 
+@font-face { font-family: 'title_news'; src: url('../fonts/Pixel-UniCode.ttf'); } 
 .font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px; }
 
 @font-face { font-family: 'title_thick'; src: url('../fonts/Sukar Regular.ttf'); }
