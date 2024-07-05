@@ -43,14 +43,14 @@ Fonts here are used by both the loc tool and the game.
 @font-face { font-family: 'small_tight'; src: url('../fonts/5mikropix--misaki_gothic.ttf'); } /* AtariSmall-U */
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'small_harsh'; src: url('../fonts/5mikropix--misaki_gothic.ttf'); } /* 5mikropix--misaki */
+@font-face { font-family: 'small_harsh'; src: url('../fonts/5MikropixEDITbyHIBIKI.ttf'); } /* 5mikropix--misaki */
 .font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
 
 /*---- regular -------------------------------------------------*/
 @font-face { font-family: 'regular'; src: url('../fonts/5mikropix--misaki_gothic.ttf'); } /* BMmini-U--88Zen--misaki */
 .font-regular, body { font-family: 'regular'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'regular_short'; src: url('../fonts/5mikropix--misaki_gothic.ttf'); } /* 04B03-U--misaki */
+@font-face { font-family: 'regular_short'; src: url('../fonts/5MikropixEDITbyHIBIKI.ttf'); } /* 04B03-U--misaki */
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
