@@ -38,13 +38,13 @@ pre {
 	pointer-events:none;
 }
 
-.{
+.ui {
 	position: fixed;
 	font-size: 11pt;
 	line-height: 1.25em;
 	right: 1em;
 	top: 1em;
-	background-color: #1e1e1e;
+	background-color: #d9dAdF;
 	padding: 8px;
 	text-align: center;
 	bottom: 1em;
@@ -87,7 +87,7 @@ pre {
 		text-decoration: none;
 		padding: 6px 8px 3px 8px;
 		background-color: #64635E;
-		color: #1e1e1e;
+		color: #d9dAdF;
 		cursor: pointer;
 	}
 	.ui .button, .ui .splitbutton {
@@ -116,7 +116,7 @@ pre {
 		margin: 0;
 	}
 	.ui .splitbutton .first {
-		border-right: 1px dotted #1e1e1e;
+		border-right: 1px dotted #d9dAdF;
 		width: 184px;
 	}
 	/*
@@ -126,7 +126,7 @@ pre {
 	*/
 	.ui textarea {
 		border: 1px dotted #64635E;
-		background-color: #1e1e1e;
+		background-color: #d9dAdF;
 		display: block;
 		height:100%;
 		width: 390px;
@@ -158,7 +158,7 @@ pre {
 	.ui .box .title {
 		font-size: 9pt;
 		text-align: right;
-		/*color: #1e1e1e;*/
+		/*color: #d9dAdF;*/
 		padding-bottom: 0.5em;
 	}
 	#original_en {
@@ -179,7 +179,7 @@ pre {
 		margin-bottom: 4px;
 		padding: 4px 10px;
 		background-color: #64635E;
-		color: #1e1e1e;
+		color: #d9dAdF;
 		cursor: pointer;
 	}
 	.ui .term-selected {
@@ -193,7 +193,7 @@ pre {
 	.ui .language-code-button {
 		position: absolute;
 		background-color: #E12128;
-		color: #1e1e1e;
+		color: #d9dAdF;
 		left: 0px;
 		top: 4px;
 		padding: 4px;
@@ -386,7 +386,7 @@ pre {
 		text-decoration: none;
 		padding: 6px 8px 3px 8px;
 		background-color: #64635E;
-		color: #1e1e1e;
+		color: #d9dAdF;
 		cursor: pointer;
 		border-radius: 2px;
 		width: 200px;
