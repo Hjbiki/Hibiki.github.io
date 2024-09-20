@@ -35,7 +35,7 @@ Fonts here are used by both the loc tool and the game.
 ----------------------------------------------------------------------------------
 */
 
-/*---- tiny -------------------------------------------------*/
+/*---- tinyy -------------------------------------------------*/
 @font-face { font-family: 'tiny'; src: url('../fonts/ArabicGamePixel.ttf'); } /* MiniKylie-U */
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; } 
 
