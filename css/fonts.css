@@ -37,21 +37,21 @@ Fonts here are used by both the loc tool and the game.
 
 /*---- tinyy -------------------------------------------------*/
 @font-face { font-family: 'tiny'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); } /* MiniKylie-U */
-.font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; } 
+.font-tiny { font-family: 'tiny'; font-size: 12px; line-height: 12px; } 
 
 /*---- small -------------------------------------------------*/
 @font-face { font-family: 'small_tight'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); } /* AtariSmall-U */
-.font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
+.font-small_tight { font-family: 'small_tight'; font-size: 12px; line-height: 12px; }
 
 @font-face { font-family: 'small_harsh'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); } /* 5mikropix--misaki */
-.font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
+.font-small_harsh { font-family: 'small_harsh'; font-size: 12px; line-height: 12px; }
 
 /*---- regular -------------------------------------------------*/
 @font-face { font-family: 'regular'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); } /* BMmini-U--88Zen--misaki */
-.font-regular, body { font-family: 'regular'; font-size: 8px; line-height: 8px; }
+.font-regular, body { font-family: 'regular'; font-size: 12px; line-height: 12px; }
 
 @font-face { font-family: 'regular_short'; src: url('../fonts/Arabic by Anad Al Askar.ttf'); } /* 04B03-U--misaki */
-.font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
+.font-regular_short { font-family: 'regular_short'; font-size: 12px; line-height: 12px; }
 
 /*---- title -------------------------------------------------*/
 @font-face { font-family: 'title_tall'; src: url('../fonts/Sukar-Black-1.ttf'); } /* pixelplay--shnmk14 */
