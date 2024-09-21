@@ -37,7 +37,7 @@ Fonts here are used by both the loc tool and the game.
 
 /*---- tinyy -------------------------------------------------*/
 @font-face { font-family: 'tiny'; src: url('../fonts/ArabicGamePixel.ttf'); } /* MiniKylie-U */
-.font-tiny { font-family: 'tiny'; font-size: 10px; line-height: 10px; } 
+.font-tiny { font-family: 'tiny'; font-size: 11px; line-height: 11px; } 
 
 /*---- small -------------------------------------------------*/
 @font-face { font-family: 'small_tight'; src: url('../fonts/ArabicGamePixel.ttf'); } /* AtariSmall-U */
@@ -65,7 +65,7 @@ Fonts here are used by both the loc tool and the game.
 
 /*---- ui -------------------------------------------------*/
 @font-face { font-family: 'ui_regular'; src: url('../fonts/ArabicGamePixel.ttf'); } /* NotNokia-U--knj10b */
-.font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
+.font-ui_regular { font-family: 'ui_regular'; font-size: 10px; line-height: 10px; }
 
 /*---- large -------------------------------------------------*/
 @font-face { font-family: 'large'; src: url('../fonts/ArabicGamePixel.ttf'); } /* Resource-U--knj10 */
