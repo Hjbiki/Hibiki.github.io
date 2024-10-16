@@ -36,39 +36,39 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tinyy -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../fonts/unixel-Regular.ttf'); } /* MiniKylie-U */
+@font-face { font-family: 'tiny'; src: url('../fonts/Sorena-Pixel.ttf'); } /* MiniKylie-U */
 .font-tiny { font-family: 'tiny'; font-size: 11px; line-height: 11px; } 
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small_tight'; src: url('../fonts/unixel-Regular.ttf'); } /* AtariSmall-U */
+@font-face { font-family: 'small_tight'; src: url('../fonts/Sorena-Pixel.ttf'); } /* AtariSmall-U */
 .font-small_tight { font-family: 'small_tight'; font-size: 10px; line-height: 10px; }
 
-@font-face { font-family: 'small_harsh'; src: url('../fonts/unixel-Regular.ttf'); } /* 5mikropix--misaki */
+@font-face { font-family: 'small_harsh'; src: url('../fonts/Sorena-Pixel.ttf'); } /* 5mikropix--misaki */
 .font-small_harsh { font-family: 'normal'; font-size: 12px; line-height: 12px; }
 
 /*---- regular -------------------------------------------------*/
-@font-face { font-family: 'regular'; src: url('../fonts/unixel-Regular.ttf'); } /* BMmini-U--88Zen--misaki */
+@font-face { font-family: 'regular'; src: url('../fonts/Sorena-Pixel.ttf'); } /* BMmini-U--88Zen--misaki */
 .font-regular, body { font-family: 'regular'; font-size: 10px; line-height: 10px; }
 
-@font-face { font-family: 'regular_short'; src: url('../fonts/unixel-Regular.ttf'); } /* 04B03-U--misaki */
+@font-face { font-family: 'regular_short'; src: url('../fonts/Sorena-Pixel.ttf'); } /* 04B03-U--misaki */
 .font-regular_short { font-family: 'regular_short'; font-size: 10px; line-height: 10px; }
 
 /*---- title -------------------------------------------------*/
 @font-face { font-family: 'title_tall'; src: url('../fonts/Sukar-Black-1.ttf'); } /* pixelplay--shnmk14 */
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
 
-@font-face { font-family: 'title_news'; src: url('../fonts/unixel-Regular.ttf'); }  /* MotorolaScreentype-U */
+@font-face { font-family: 'title_news'; src: url('../fonts/Sorena-Pixel.ttf'); }  /* MotorolaScreentype-U */
 .font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px; }
 
-@font-face { font-family: 'title_thick'; src: url('../fonts/unixel-Regular.ttf'); } /* ChixaDemiBold--shnmk12b */
+@font-face { font-family: 'title_thick'; src: url('../fonts/Sorena-Pixel.ttf'); } /* ChixaDemiBold--shnmk12b */
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
 
 /*---- ui -------------------------------------------------*/
-@font-face { font-family: 'ui_regular'; src: url('../fonts/unixel-Regular.ttf'); } /* NotNokia-U--knj10b */
+@font-face { font-family: 'ui_regular'; src: url('../fonts/Sorena-Pixel.ttf'); } /* NotNokia-U--knj10b */
 .font-ui_regular { font-family: 'ui_regular'; font-size: 10px; line-height: 10px; }
 
 /*---- large -------------------------------------------------*/
-@font-face { font-family: 'large'; src: url('../fonts/unixel-Regular.ttf'); } /* Resource-U--knj10 */
+@font-face { font-family: 'large'; src: url('../fonts/Sorena-Pixel.ttf'); } /* Resource-U--knj10 */
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /* 
@@ -96,7 +96,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
 /*---- passport countries -------------------------------------------------*/
-@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/unixel-Regular.ttf'); }
+@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/Sorena-Pixel.ttf'); }
 @font-face { font-family: 'passport_republia'; src: url('../fonts/Arial-Black.ttf'); }
 @font-face { font-family: 'passport_unitedfed'; src: url('../fonts/84-Orange.ttf');}
 @font-face { font-family: 'passport_kolechia'; src: url('../fonts/BMgermar.ttf'); }
